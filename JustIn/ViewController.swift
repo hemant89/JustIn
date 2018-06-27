@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         print("this is first commit")
         print("this is second commit")
+        
+        print("This is new branch commit")
     }
 
     override func didReceiveMemoryWarning() {
